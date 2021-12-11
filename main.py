@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print('#2 changes')
     print('#5 changes')
     print('#4 changes')
+    print('#3 changes')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
